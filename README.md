@@ -19,26 +19,22 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Koala-Terbang/Koala-Terbang/blob/main/Gif/EOTgif.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Koala-Terbang/Koala-Terbang/blob/main/Gif/FSgif.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.
+      <td valign="text-top">The game combines stealth mechanics, sci-fi aesthetics and puzzles into a single tense yet engaging experience. Players infiltrate a futuristic facility containing critical information, navigating through while avoiding guards, cameras, and drones. The core objective is to sneak in, retrieve the critical data, and escape undetected, all while solving puzzles, and uncovering hidden rooms that expand on the story.
       </td>
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day
+      <td valign="text-top">A casual/party game with a short story where players begin their journey as an intern in an IT office and complete various minigames such as sorting files, choosing strong passwords, marking suspicious emails, and more. As the story progresses, the minigames become more unique and challenging, while teaching the dos and don’ts of the digital environment in line with SDG Goal 4: Quality Education, presented in an interactive and easy-to-understand way.
       </td>
     </tr>
     <tr>
       <td align="center"><a href="https://rexclavis.itch.io/echoes-of-tomorrow">Itch.io</a></td>
       <td align="center"><a href="https://github.com/Koala-Terbang/Gemastik2025">GitHub</a></td>
     </tr>
-    <!-- <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> 
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td>
-    </tr> -->
   </tbody>
 </table>
 
@@ -56,25 +52,21 @@
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/Koala-Terbang/Koala-Terbang/blob/main/Gif/ABgif.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Koala-Terbang/Koala-Terbang/blob/main/Gif/JJgif.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.
+      <td valign="text-top">Apple Bucket is a casual game inspired by the classic Paper Toss that I enjoyed during my childhood. I developed it as part of a school project, focusing on recreating the fun and simplicity of the original while adding my own creative touch.
       </td>
-      <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.
+      <td valign="text-top">Jurassic Jetpack is a simple yet fun game created by combining elements of Google’s T-Rex Runner with Jetpack Joyride. The project allowed me to experiment with blending different gameplay mechanics into a unique experience.
       </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Koala-Terbang/AppleBucket">GitHub</a></td>
       <td align="center"><a href="https://koalaterbang.itch.io/jurassic-jetpack">Itch.io</a></td>
     </tr>
-    <!-- <tr>
-      <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td>
-      <td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td>
-    </tr> -->
   </tbody>
 </table>
