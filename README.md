@@ -3,7 +3,8 @@
 🎮 Game Programmer passionate about bringing ideas to life through code.
 🕹️ I’ve developed several 2D games and I’m now exploring the world of 3D game development.
 💡 Always learning, building, and pushing my creativity forward.
-**📩Email** <br>
+<br>
+<b>📩Email<b>
 bryantchandra2806@gmail.com
 
 <br>
