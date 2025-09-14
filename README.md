@@ -1,12 +1,13 @@
-**📌About** <br>
-👋 Hi, I’m Bryant Chandra
-🎮 Game Programmer passionate about bringing ideas to life through code.
-🕹️ I’ve developed several 2D games and I’m now exploring the world of 3D game development.
-💡 Always learning, building, and pushing my creativity forward.
-**📩Email** <br>
-bryantchandra2806@gmail.com
+# 👋 Hi, I’m **Bryant Chandra**
 
-<br>
+🎮 **Game Programmer** passionate about bringing ideas to life through code.  
+🕹️ I’ve developed several **2D games** and I’m now exploring the world of **3D game development**.  
+💡 Always learning, building, and pushing my creativity forward.  
+
+---
+
+📩 **Email**  
+[bryantchandra2806@gmail.com]
 
 <table width="100%">
   <thead>
