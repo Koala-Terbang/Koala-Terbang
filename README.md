@@ -45,28 +45,28 @@
 <table width="100%">
   <thead>
     <tr>
+      <th width="50%" align="center"><a>Lush Garden</a></th>
       <th width="50%" align="center"><a>Apple Bucket</a></th>
-      <th width="50%" align="center"><a>Jurrasic Jetpack</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/Koala-Terbang/Koala-Terbang/blob/main/Gif/ABgif.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/NGnolep/Lush-Garner/blob/main/Assets/Assets/Lushgarner.gif" alt="2" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/Koala-Terbang/Koala-Terbang/blob/main/Gif/JJgif.gif" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/Koala-Terbang/Koala-Terbang/blob/main/Gif/ABgif.gif" alt="1" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
+      <td valign="text-top">Lush Garner is a farming simulator game where the core mechanic allows player to buy seeds from shop then farm them. It shows the hardship of farming in these days and also how to farm.
+      </td>
       <td valign="text-top">Apple Bucket is a casual game inspired by the classic Paper Toss that I enjoyed during my childhood. I developed it as part of a school project, focusing on recreating the fun and simplicity of the original while adding my own creative touch.
       </td>
-      <td valign="text-top">Jurassic Jetpack is a simple yet fun game created by combining elements of Google’s T-Rex Runner with Jetpack Joyride. The project allowed me to experiment with blending different gameplay mechanics into a unique experience.
-      </td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/NGnolep/Lush-Garner">GitHub</a></td>
       <td align="center"><a href="https://github.com/Koala-Terbang/AppleBucket">GitHub</a></td>
-      <td align="center"><a href="https://koalaterbang.itch.io/jurassic-jetpack">Itch.io</a></td>
     </tr>
   </tbody>
 </table>
