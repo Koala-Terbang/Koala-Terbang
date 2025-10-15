@@ -33,6 +33,10 @@
     </tr>
     <tr>
       <td align="center"><a href="https://rexclavis.itch.io/echoes-of-tomorrow">Itch.io</a></td>
+      <td align="center"><a href="https://koalaterbang.itch.io/fail-safe">Itch.io</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Koala-Terbang/Echoes_Of_Tomorrow">GitHub</a></td>
       <td align="center"><a href="https://github.com/Koala-Terbang/Gemastik2025">GitHub</a></td>
     </tr>
   </tbody>
@@ -63,6 +67,10 @@
       </td>
       <td valign="text-top">Apple Bucket is a casual game inspired by the classic Paper Toss that I enjoyed during my childhood. I developed it as part of a school project, focusing on recreating the fun and simplicity of the original while adding my own creative touch.
       </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="">Itch.io</a></td>
+      <td align="center"><a href="https://koalaterbang.itch.io/Apple-Bucket">Itch.io</a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/NGnolep/Lush-Garner">GitHub</a></td>
