@@ -26,9 +26,9 @@
       </td>
     </tr>
     <tr>
-      <td valign="text-top">The game combines stealth mechanics, sci-fi aesthetics and puzzles into a single tense yet engaging experience. Players infiltrate a futuristic facility containing critical information, navigating through while avoiding guards, cameras, and drones. The core objective is to sneak in, retrieve the critical data, and escape undetected, all while solving puzzles, and uncovering hidden rooms that expand on the story.
+      <td valign="text-top">The game combines stealth mechanics, sci-fi aesthetics and puzzles into a single tense yet engaging experience. Players infiltrate a futuristic facility containing critical information, navigating through while avoiding guards, cameras, and drones. The core objective is to sneak in, retrieve the critical data, and escape undetected, all while solving puzzles, and uncovering hidden rooms that expand on the story. This game is made in 32 Hours or 3 days.
       </td>
-      <td valign="text-top">A casual/party game with a short story where players begin their journey as an intern in an IT office and complete various minigames such as sorting files, choosing strong passwords, marking suspicious emails, and more. As the story progresses, the minigames become more unique and challenging, while teaching the dos and don’ts of the digital environment in line with SDG Goal 4: Quality Education, presented in an interactive and easy-to-understand way.
+      <td valign="text-top">A casual/party game with a short story where players begin their journey as an intern in an IT office and complete various minigames such as sorting files, choosing strong passwords, marking suspicious emails, and more. As the story progresses, the minigames become more unique and challenging, while teaching the dos and don’ts of the digital environment in line with SDG Goal 4: Quality Education, presented in an interactive and easy-to-understand way. This game is made in 13 Hours or 2 days.
       </td>
     </tr>
     <tr>
@@ -63,9 +63,9 @@
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Lush Garner is a farming simulator game where the core mechanic allows player to buy seeds from shop then farm them. It shows the hardship of farming in these days and also how to farm.
+      <td valign="text-top">Lush Garner is a farming simulator game where the core mechanic allows player to buy seeds from shop then farm them. It shows the hardship of farming in these days and also how to farm. Contribution in making planting mechanics, movement, all planting minigame, and bug fixing. This game is made in 1 week.
       </td>
-      <td valign="text-top">Apple Bucket is a casual game inspired by the classic Paper Toss that I enjoyed during my childhood. I developed it as part of a school project, focusing on recreating the fun and simplicity of the original while adding my own creative touch.
+      <td valign="text-top">Apple Bucket is a casual game inspired by the classic Paper Toss that I enjoyed during my childhood. I developed it as part of a school project, focusing on recreating the fun and simplicity of the original while adding my own creative touch. This game is made in 2 Hours.
       </td>
     </tr>
     <tr>
